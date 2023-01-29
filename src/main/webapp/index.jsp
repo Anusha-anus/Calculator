@@ -8,7 +8,7 @@ index.jsp<%@ page language="java" contentType="text/html"%>
 </head>
 <body bgcolor="Aqua">
 
-<h1 style="text_align=center">Docker Calculator - by Prashant Beniwal for Intellipaat DevOps -- Dec-2022!!!</h1>
+<h1 style="text_align=center">Docker Calculator - by Anusha S for Intellipaat DevOps -- Dec-2022!!!</h1>
 <form action="firstHomePage" method="get">
 <label>First number:</label>
 <input id="f1" type="text" name="n1" />
